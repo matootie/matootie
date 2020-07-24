@@ -10,12 +10,6 @@
   <a href="https://linkedin.com/in/matejalasan/" target="_blank">
     <img width="22px" src="https://simpleicons.org/icons/linkedin.svg" />
   </a>
-  <a href="https://youtube.com/matootie/" target="_blank">
-    <img width="22px" src="https://simpleicons.org/icons/youtube.svg" />
-  </a>
-  <a href="https://twitch.tv/matootie/" target="_blank">
-    <img width="22px" src="https://simpleicons.org/icons/twitch.svg" />
-  </a>
   <a href="https://https://dribbble.com/matootie/" target="_blank">
     <img width="22px" src="https://simpleicons.org/icons/dribbble.svg" />
   </a>
@@ -24,4 +18,6 @@
   </a>
 </p>
 <hr />
-<p align="center"><a href="https://m.lasan.ca/" target="_blank">visit my website</a></p>
+<p align="center"><a href="https://m.lasan.ca/" target="_blank">Visit my website</a></p>
+<hr />
+<p>Hi. I'm <em>Mateja</em>, or, <strong>matootie</strong>. I started programming in high school because it was fun, and I'm still riding that wave. I'm always interested in working on new projects. I don't use social media, <em>aside from GitHub if you count that</em>, so if you would like to get in contact with me, good old fashion email works best, you know where to find it.</p>
