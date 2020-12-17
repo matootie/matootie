@@ -1,17 +1,6 @@
 <h3 align="center">Hello, world!</h3>
 <p align="center">Find me in these locations</p>
 <p align="center">
-  <a href="https://instagram.com/mateja.lasan/" target="_blank">
-    instagram
-  </a>
-  <a href="https://twitter.com/matootietweets/" target="_blank">
-    twitter
-  </a>
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/matejalasan/" target="_blank">
-    linkedin
-  </a>
   <a href="https://dribbble.com/matootie/" target="_blank">
     dribbble
   </a>
