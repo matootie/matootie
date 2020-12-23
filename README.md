@@ -1,17 +1,20 @@
 <h3 align="center">Hello, world!</h3>
 <p align="center">Find me in these locations</p>
 <p align="center">
-  <a href="https://dribbble.com/matootie/" target="_blank">
-    dribbble
-  </a>
-  <a href="https://github.com/matootie/" target="_blank">
+  <a href="https://github.com/matootie/">
     github
   </a>
 </p>
 <p align="center">
-  <a href="https://matootie.com" target="_blank">
+  <a href="https://matootie.com">
     my blog
   </a>
+</p>
+<p align="center">
+  <a href="https://mateja.lasan.ca">
+    <del>my portfolio</del>
+  </a>
+  <em>is not ready yet</em>
 </p>
 <hr />
 <p>Hi. I'm <em>Mateja</em>, or, <strong>matootie</strong>. I started programming in high school because it was fun, and I'm still riding that wave. I'm always interested in working on new projects. I don't use social media, <em>aside from GitHub if you count that</em>, so if you would like to get in contact with me, good old fashion email works best. You know where to find it.</p>
